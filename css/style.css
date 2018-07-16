@@ -1,8 +1,8 @@
 @import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900);
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script);
 
-/* This 
-is 
+/* This
+is
 a comment! */
 
 /* CSS Syntax:
@@ -18,7 +18,7 @@ selector {
 
 p { /* select all <p> */
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
-  line-height: 1.5em;
+  line-height: 1.51em;
 }
 
 figcaption {
